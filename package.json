@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://Nastya0828/gitname.github.io/FashionBlog",
+  "homepage": "https://Nastya0828.github.io/FashionBlog",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
